@@ -1,0 +1,117 @@
+body{
+    background-image: url('IMG-20250530-WA0001.jpg');
+     background-size: cover ;
+background-position: center;
+background-repeat: no-repeat;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+ background-color: black;
+ 
+ 
+
+}
+
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+
+.ques {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 40px;
+  color:rgb(249, 13, 13) ; /* Make it visible on background */
+  font-size: 45px;
+}
+
+
+
+
+.container {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.circle-button{
+  width: 100px;
+  height: 50px;
+  border-radius: 100%;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  margin:10px; 
+  transition: background-color 0.3s ease;
+}
+
+.button1{
+    background-color: grey;
+color: #fff;
+
+}
+
+.button1:hover{
+    background-color:rgb(249, 13, 13);
+}
+
+
+.a{
+color: white;
+text-decoration: none;
+}
+
+
+
+.button2{
+background-color: grey;
+color: #fff;
+
+}
+
+.button2:hover{
+    background-color: rgb(249, 13, 13);
+}
+
+
+.button3{
+background-color: grey;
+color: #fff;
+
+}
+
+.button3:hover{
+    background-color: rgb(249, 13, 13);
+}
+
+.button4{
+background-color: grey;
+color: #fff;
+
+}
+
+.button4:hover{
+    background-color: rgb(249, 13, 13);
+}
+
+
+
+
+.button5{
+background-color: grey;
+color: #fff;
+
+}
+
+.button5:hover{
+    background-color: rgb(249, 13, 13);
+}

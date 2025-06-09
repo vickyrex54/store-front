@@ -1,0 +1,46 @@
+body{
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+ background-image: url('IMG-20250530-WA0001.jpg');
+ background-size: cover ;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+
+
+
+h1{
+display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(249, 12, 12);
+font-size: 45px;
+
+
+}
+
+p{
+    display: flex;
+justify-content: center;
+align-items: center;
+color: rgb(249, 12, 12); 
+font-size: 45px;
+font-weight: bold;
+
+
+
+}
+
+
+.container{
+ text-align: center;
+ padding: 200px;
+color: rgb(72, 66, 66);
+width: 50%;
+margin: 0 auto;
+}
+
