@@ -19,7 +19,7 @@ x<!DOCTYPE html>
     
    
      
-<button><a href="stores.html"> SHOP NOW </a></button>
+<button><a href="stores.php"> SHOP NOW </a></button>
 
 </div>
 

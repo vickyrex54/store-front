@@ -15,7 +15,7 @@
 
  <div class="cart">
   
-       <a class="cart-link header-link" href="clothes-checkout.html">
+       <a class="cart-link header-link" href="clothes-checkout.php">
          <div class="cart-quantity js-cart-quantity"></div>
          
           <img class="cart-icon" src="styles\cart-icon.png">

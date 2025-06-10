@@ -144,7 +144,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Verify password
         if (password_verify($input_password, $hashed_password)) {
             // Password is correct, set session and redirect to victor.html
-            header("Location:../welcome.html"); // Redirect on success
+            header("Location:../welcome.php"); // Redirect on success
             exit();
         } else {
             echo "❌ Incorrect password.";

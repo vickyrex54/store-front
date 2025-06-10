@@ -138,7 +138,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Execute the query and check if it was successful
     if ($conn->query($sql) === TRUE) {
-         header("location:../welcome.html");
+         header("location:../welcome.php");
            
           exit(); 
 
